@@ -10,6 +10,7 @@ Middle Kingdom Aerospace (MKA) is a new mod made by Kari and Questin focused on 
 - Community Resource Pack
 - Shabby
 - Simple Adjustable Fairings
+- Animated Decouplers
 
 ### Recommended Mods:
 - HullCameraVDS & NeptuneCamera
