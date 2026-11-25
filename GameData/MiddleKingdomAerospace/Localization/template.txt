@@ -113,6 +113,10 @@ Localization
         #LOC_MKA_26_CZ5_YF100_MOUNT_description = 
         #LOC_MKA_26_CZ5_YF100_MOUNT_tags = 
 
+        #LOC_MKA_YF100_title =
+        #LOC_MKA_YF100_description =
+        #LOC_MKA_YF100_tags = 
+
         // CZ7
 
         #LOC_MKA_CZ7_PAYLOAD_ADAPTER_title = 
